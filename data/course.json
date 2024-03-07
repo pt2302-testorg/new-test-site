@@ -1,0 +1,30 @@
+{
+  "term": "",
+  "year": "",
+  "level": [],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "new-test-site"
+  },
+  "course_image": {
+    "content": "",
+    "website": "new-test-site"
+  },
+  "course_title": "Test",
+  "hide_download": false,
+  "course_description": "",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "1",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "new-test-site"
+  },
+  "learning_resource_types": [],
+  "site_uid": "8ba39638-d888-48f4-bd58-49e32b345431",
+  "site_short_id": "new-test-site"
+}
